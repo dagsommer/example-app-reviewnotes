@@ -1,0 +1,75 @@
+Date : 2022-10-05 23:51:34
+Directory : /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes
+Total : 33 files,  1062 codes, 39 comments, 89 blanks, all 1190 lines
+
+Languages
++--------------------+------------+------------+------------+------------+------------+
+| language           | files      | code       | comment    | blank      | total      |
++--------------------+------------+------------+------------+------------+------------+
+| JSON               |          6 |        417 |          0 |          2 |        419 |
+| TypeScript         |         16 |        292 |         23 |         56 |        371 |
+| JSON with Comments |          4 |        153 |         14 |          2 |        169 |
+| vue                |          2 |        146 |          1 |          8 |        155 |
+| Markdown           |          2 |         31 |          0 |         18 |         49 |
+| HTML               |          1 |         16 |          1 |          1 |         18 |
+| JavaScript         |          2 |          7 |          0 |          2 |          9 |
++--------------------+------------+------------+------------+------------+------------+
+
+Directories
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| path                                                                                                              | files      | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+| .                                                                                                                 |         33 |      1,062 |         39 |         89 |      1,190 |
+| api                                                                                                               |         19 |        720 |         26 |         52 |        798 |
+| api/src                                                                                                           |         15 |        618 |         23 |         50 |        691 |
+| api/src/controllers                                                                                               |          4 |         48 |          0 |         10 |         58 |
+| api/src/data                                                                                                      |          2 |        346 |          0 |          0 |        346 |
+| api/src/middleware                                                                                                |          2 |         33 |          0 |          5 |         38 |
+| api/src/models                                                                                                    |          3 |        139 |         10 |         18 |        167 |
+| api/src/routes                                                                                                    |          1 |         10 |          3 |          6 |         19 |
+| api/src/util                                                                                                      |          1 |         32 |          0 |          5 |         37 |
+| client                                                                                                            |         13 |        330 |         13 |         25 |        368 |
+| client/public                                                                                                     |          1 |         16 |          1 |          1 |         18 |
+| client/src                                                                                                        |          5 |        166 |          1 |         14 |        181 |
+| client/src/components                                                                                             |          1 |        120 |          1 |          4 |        125 |
++-------------------------------------------------------------------------------------------------------------------+------------+------------+------------+------------+------------+
+
+Files
++-------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| filename                                                                                                          | language           | code       | comment    | blank      | total      |
++-------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/README.md                                     | Markdown           |         12 |          0 |         12 |         24 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/.eslintrc.json                            | JSON with Comments |         55 |          0 |          0 |         55 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/.prettierrc.json                          | JSON               |          8 |          0 |          0 |          8 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/package.json                              | JSON               |         25 |          0 |          1 |         26 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/app.ts                                | TypeScript         |          8 |         10 |          4 |         22 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/controllers/engagements.controller.ts | TypeScript         |         16 |          0 |          1 |         17 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/controllers/index.ts                  | TypeScript         |          3 |          0 |          1 |          4 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/controllers/reviewNotes.controller.ts | TypeScript         |         18 |          0 |          5 |         23 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/controllers/users.controller.ts       | TypeScript         |         11 |          0 |          3 |         14 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/data/dummy-data-reviewnotes.json      | JSON               |        334 |          0 |          0 |        334 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/data/dummy-data-users.json            | JSON               |         12 |          0 |          0 |         12 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/middleware/error.middleware.ts        | TypeScript         |         32 |          0 |          4 |         36 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/middleware/index.ts                   | TypeScript         |          1 |          0 |          1 |          2 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/models/index.ts                       | TypeScript         |          2 |          0 |          1 |          3 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/models/reviewNote.model.ts            | TypeScript         |        120 |          9 |         13 |        142 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/models/user.model.ts                  | TypeScript         |         17 |          1 |          4 |         22 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/routes/index.ts                       | TypeScript         |         10 |          3 |          6 |         19 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/server.ts                             | TypeScript         |          2 |          0 |          2 |          4 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/src/util/APIError.ts                      | TypeScript         |         32 |          0 |          5 |         37 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/api/tsconfig.json                             | JSON with Comments |         14 |          3 |          1 |         18 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/.eslintrc.json                         | JSON with Comments |         55 |          0 |          0 |         55 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/.prettierrc.json                       | JSON               |          8 |          0 |          0 |          8 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/README.md                              | Markdown           |         19 |          0 |          6 |         25 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/babel.config.js                        | JavaScript         |          3 |          0 |          1 |          4 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/package.json                           | JSON               |         30 |          0 |          1 |         31 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/public/index.html                      | HTML               |         16 |          1 |          1 |         18 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/src/App.vue                            | vue                |         26 |          0 |          4 |         30 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/src/components/HelloWorld.vue          | vue                |        120 |          1 |          4 |        125 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/src/main.ts                            | TypeScript         |          6 |          0 |          3 |          9 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/src/shims-tsx.d.ts                     | TypeScript         |         10 |          0 |          2 |         12 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/src/shims-vue.d.ts                     | TypeScript         |          4 |          0 |          1 |          5 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/tsconfig.json                          | JSON with Comments |         29 |         11 |          1 |         41 |
+| /Users/dagsommer/Documents/LocalGitProjects/example-app-reviewnotes/client/vue.config.js                          | JavaScript         |          4 |          0 |          1 |          5 |
+| Total                                                                                                             |                    |      1,062 |         39 |         89 |      1,190 |
++-------------------------------------------------------------------------------------------------------------------+--------------------+------------+------------+------------+------------+
